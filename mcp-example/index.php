@@ -23,7 +23,7 @@ $status = 'ok'; // ok | error
  *
  * @see https://www.micropayment.de/help/integration_web/#integration_web-notification-response
  */
-$url = 'https://www.example.com/path/to/member-area/';
+$url = 'https://www.ah-oh.com';
 
 /**
  * @var string $target
